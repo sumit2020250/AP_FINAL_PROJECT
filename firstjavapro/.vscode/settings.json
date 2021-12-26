@@ -1,0 +1,24 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/vikrantdhanwadia/Downloads/javafx-sdk-17.0.1/lib/javafx-swt.jar",
+        "/Users/vikrantdhanwadia/Downloads/javafx-sdk-17.0.1/lib/javafx.base.jar",
+        "/Users/vikrantdhanwadia/Downloads/javafx-sdk-17.0.1/lib/javafx.controls.jar",
+        "/Users/vikrantdhanwadia/Downloads/javafx-sdk-17.0.1/lib/javafx.fxml.jar",
+        "/Users/vikrantdhanwadia/Downloads/javafx-sdk-17.0.1/lib/javafx.graphics.jar",
+        "/Users/vikrantdhanwadia/Downloads/javafx-sdk-17.0.1/lib/javafx.media.jar",
+        "/Users/vikrantdhanwadia/Downloads/javafx-sdk-17.0.1/lib/javafx.swing.jar",
+        "/Users/vikrantdhanwadia/Downloads/javafx-sdk-17.0.1/lib/javafx.web.jar",
+        "/Users/vikrantdhanwadia/javafx/lib/javafx-swt.jar",
+        "/Users/vikrantdhanwadia/javafx/lib/javafx.base.jar",
+        "/Users/vikrantdhanwadia/javafx/lib/javafx.controls.jar",
+        "/Users/vikrantdhanwadia/javafx/lib/javafx.fxml.jar",
+        "/Users/vikrantdhanwadia/javafx/lib/javafx.graphics.jar",
+        "/Users/vikrantdhanwadia/javafx/lib/javafx.media.jar",
+        "/Users/vikrantdhanwadia/javafx/lib/javafx.swing.jar",
+        "/Users/vikrantdhanwadia/javafx/lib/javafx.web.jar"
+    ],
+    "git.ignoreLimitWarning": true
+}
